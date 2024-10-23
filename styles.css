@@ -21,8 +21,8 @@ h2 {
 }
 nav#hori ul {
     list-style-type: none;
-    padding: 0;
-    margin: 10;
+    padding: 0px;
+    margin: 10px;
     overflow: auto;
 }
 nav#hori ul li {
