@@ -1,0 +1,47 @@
+html {
+    background-color: #FFFFFF
+}
+h1 {
+    color: darkblue;
+    font-family: Helvetica, Arial, Georgia;
+}
+h2 {
+    color: darkblue;
+    font-family: Helvetica, Arial, Georgia;
+}
+#maincontent {
+    color: darkblue;
+    font-family: Helvetica, Arial, Georgia;
+    font-size: 14px;
+    text-align: left;
+}
+#description {
+    color: #A3A3A3;
+    font-family: Helvetica, Arial, Georgia;
+}
+nav#hori ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 10;
+    overflow: auto;
+}
+nav#hori ul li {
+    float: left;
+    margin: 0 10px;
+}
+nav#hori ul li a {
+    display: block;
+    background-color: darkblue;
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    width: 100px;
+    padding: 7px 0px 8px 0px;
+    border-radius: 3px;
+}
+nav#hori ul li a:hover {
+    background-color: #FFC300;
+    color: darkblue;
+    border-radius: 40px;
+}
